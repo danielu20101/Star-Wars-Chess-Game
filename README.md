@@ -9,7 +9,7 @@ Exit game just should be button press escape to exit
 “Winner!” or “Lost!” Displayed if user wins or loses game
 
 Approach:
-Key. Created Board using JFrame, JPanel, Graphics, IOExtension, ImageIO java graphics libraries
+Key. Created Board using JFrame, JPanel, AWT Graphics, IOExtension, ImageIO java graphics libraries
 for loop cuts out each image from the 600 x 1200 pixel image
 
 Miscellaneous:
