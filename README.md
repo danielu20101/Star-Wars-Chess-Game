@@ -1,5 +1,5 @@
 # Star-Wars-Chess-Game
-Chess Game, with AI, implementing star wars pieces
+Chess Game implementing star wars pieces
 
 Objective:
 Created a chess game with an object oriented approach using star wars characters against computer AI. Each character makes a unique sound when they attack, move on the board, and a sound for the endgame.
